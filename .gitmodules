@@ -1,3 +1,6 @@
 [submodule "goerli-mint-factory"]
 	path = goerli-mint-factory
 	url = https://github.com/aesy-engineering/goerli-mint-factory
+[submodule "matic-metadata"]
+	path = matic-metadata
+	url = https://github.com/aesy-engineering/matic-metadata
