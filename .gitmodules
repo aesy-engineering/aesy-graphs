@@ -1,0 +1,3 @@
+[submodule "goerli-mint-factory"]
+	path = goerli-mint-factory
+	url = https://github.com/aesy-engineering/goerli-mint-factory
