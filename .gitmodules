@@ -4,3 +4,6 @@
 [submodule "matic-metadata"]
 	path = matic-metadata
 	url = https://github.com/aesy-engineering/matic-metadata
+[submodule "mumbai-mint-factory"]
+	path = mumbai-mint-factory
+	url = https://github.com/aesy-engineering/mumbai-mint-factory
