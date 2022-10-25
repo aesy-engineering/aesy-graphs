@@ -7,3 +7,6 @@
 [submodule "mumbai-mint-factory"]
 	path = mumbai-mint-factory
 	url = https://github.com/aesy-engineering/mumbai-mint-factory
+[submodule "polygon-mint-factory"]
+	path = polygon-mint-factory
+	url = https://github.com/aesy-engineering/polygon-mint-factory
